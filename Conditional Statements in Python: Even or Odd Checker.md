@@ -21,7 +21,8 @@ else:
     print("ODD")
 ```
 ## Output
-![Uploading image.png…]()
+<img width="681" height="513" alt="image" src="https://github.com/user-attachments/assets/763b976d-7117-4741-8ebf-a5ee3abb7153" />
+
 
 
 ## Result
